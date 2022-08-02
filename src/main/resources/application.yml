@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hlizama/spring-cloud-config.git
+          uri: https://github.com/Kat-Torres/spring-cloud-config.git
 
 
           # If you are using ssh key to connect private git repository use following configs
